@@ -1,6 +1,6 @@
 ## Introduction
 
-Decred is finally on cake wallet. This is a followup now that the first proposal if finished. This proposal aims to make decred on cake more user friendly.
+Decred is finally on cake wallet. This is a followup now that the first proposal is finished. This proposal aims to make decred on cake more user friendly.
 
 ## Main objectives
 
