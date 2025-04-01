@@ -20,9 +20,13 @@ As people actually use the wallet we expect bugs to appear. This gives us fundin
 
 Will be used on testing devices.
 
+## Who
+
+To be done by any interested decred contractors, especially Wisdom, Dreacot, Philemon, and Joe.
+
 ## Work
 
-We anticipate costs in the range of **60k USD** and expect to have the main objectives done in 6 months.
+We anticipate costs in the range of **60k USD** and expect to have the main objectives done in 8 months.
 
 | Item                                        | How Much       | FTE Weeks |
 |---------------------------------------------|---------------:|----------:|
