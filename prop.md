@@ -1,16 +1,16 @@
 ## Introduction
 
-Decred is finally on cake wallet. This is a followup now that the first proposal is finished. This proposal aims to make decred on cake more user friendly.
+Decred is finally on cake wallet. This is a followup now that the [first proposal](https://proposals.decred.org/record/b3bdacb) is finished. This proposal aims to make decred on cake more user friendly.
 
 ## Main objectives
 
-There are three main objectives we want to accomplish with this proposal.
+There are four main objectives we want to accomplish with this proposal.
 
 1. Speed up initial sync. We have a rough plan to cut off 300mb from the initial sync by ignoring cFilters before the wallet birthday. This should half initial sync times, but will take a lot of changes in dcrwallet and is not a small task.
 
 2. Refactor and version libwallet. This library was originally created by @itswisdomagain for dcr, ltc, and btc. However we decided to throw out ltc and btc and focus on dcr. It still needs some refactoring to remove some of the abstraction layers that were needed for three wallet types. It also lacks versioning which we want to figure out.
 
-3. Restore from hardware support. We are already on ledger so this should not be a problem.
+3. Add restore from hardware support. We are already on ledger so this should not be a problem.
 
 4. Add decred to btc pay server so that it can be used in Cake Pay. More below...
 
