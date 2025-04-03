@@ -12,7 +12,7 @@ There are four main objectives we want to accomplish with this proposal.
 
 3. Add restore from hardware support. We are already on ledger so this should not be a problem.
 
-4. Add decred to btc pay server so that it can be used in Cake Pay. More below...
+4. Add decred to BTCPay Server so that it can be used with Cake Pay. Explanation below...
 
 ## Integrate DCR to BTCPay Server for use with Cake Pay
 
