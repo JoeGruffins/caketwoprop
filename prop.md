@@ -6,7 +6,7 @@ Decred is finally on cake wallet. This is a followup now that the [first proposa
 
 There are four main objectives we want to accomplish with this proposal.
 
-1. Speed up initial sync. We have a rough plan to cut off 300mb from the initial sync by ignoring cFilters before the wallet birthday. This should half initial sync times, but will take a lot of changes in dcrwallet and is not a small task.
+1. Speed up initial sync. We have a rough plan to cut off 300mb from the initial sync by ignoring cfilters before the wallet birthday. This should half initial sync times, but will take a lot of changes in dcrwallet and is not a small task.
 
 2. Refactor and version libwallet. This library was originally created by @itswisdomagain for dcr, ltc, and btc. However we decided to throw out ltc and btc and focus on dcr. It still needs some refactoring to remove some of the abstraction layers that were needed for three wallet types. It also lacks versioning which we want to figure out.
 
