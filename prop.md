@@ -22,7 +22,7 @@ There are four main objectives we want to accomplish with this proposal.
 
 With Decred now available on Cake Wallet, the next logical step is to ensure it can be used with Cake Pay by completing a BTCPay Server integration.
 
-<em>We will do the work but as for **when** BTCPay will merge our prs is not up to us.</em>
+<em>We will do the work but as for **when** BTCPay will merge our pull requests is not up to us.</em>
 
 ## Bug support
 
@@ -30,7 +30,7 @@ As people actually use the wallet we expect bugs to appear. This gives us fundin
 
 ## Discretionary
 
-Will be used on testing devices.
+This is primarily a buffer for use when unknowns arise. Some of it will be used on testing devices as cake is on a wide range of devices. We emulate where possible, but sometimes that is not an option, especially when it comes to apple products and ledger.
 
 ## Who
 
