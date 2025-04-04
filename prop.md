@@ -22,7 +22,7 @@ There are four main objectives we want to accomplish with this proposal.
 
 With Decred now available on Cake Wallet, the next logical step is to ensure it can be used with Cake Pay by completing a BTCPay Server integration.
 
-<em>We will do the work but as for **when** BTCPay will merge our pull requests is not up to us.</em>
+*We will do the work but as for **when** BTCPay will merge our pull requests is not up to us.*
 
 ## Bug support
 
